@@ -1,0 +1,12 @@
+                                       LIBRARY MANAGEMENT SYSTEM         
+                                                                  
+Abstract:
+          
+        Online Library Management System is a system which maintains the information about the books
+        present in the library,their authors,the members of the libraryto whom books are issued, 
+        library staff and all.This is very difficult to organize manuallyis a very complex task.
+        Owing to the advancement of the technology,organization of an online library becomes much 
+        simpe.The Online Library Management has been designed to the computerize and automate the 
+        operations performed over the information about the members,book issues and ruturns and all 
+        other operations.This computerization of library helps in many instances of its maintenances. 
+        It reduces the workload of management work done is reduced
